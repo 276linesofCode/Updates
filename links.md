@@ -7,4 +7,5 @@ Brihi :
 
 Shravika:
 1. https://github.com/ntruchsess/arduino-OneWire
+1. https://www.maximintegrated.com/en/app-notes/index.mvp/id/214
 
